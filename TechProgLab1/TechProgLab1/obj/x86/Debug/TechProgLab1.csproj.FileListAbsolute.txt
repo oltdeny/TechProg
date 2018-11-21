@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2010\TechProgLab1\TechProgLab1\bin\Debug\TechProgLab1.exe
+C:\Users\user\Documents\Visual Studio 2010\TechProgLab1\TechProgLab1\bin\Debug\TechProgLab1.pdb
+C:\Users\user\Documents\Visual Studio 2010\TechProgLab1\TechProgLab1\obj\x86\Debug\TechProgLab1.exe
+C:\Users\user\Documents\Visual Studio 2010\TechProgLab1\TechProgLab1\obj\x86\Debug\TechProgLab1.pdb
+C:\Users\danii\Documents\Visual Studio 2015\Projects\TechProgLab1\TechProgLab1\obj\x86\Debug\TechProgLab1.exe
+C:\Users\danii\Documents\Visual Studio 2015\Projects\TechProgLab1\TechProgLab1\obj\x86\Debug\TechProgLab1.pdb
+C:\Users\danii\Documents\Visual Studio 2015\Projects\TechProgLab1\TechProgLab1\bin\Debug\TechProgLab1.exe
+C:\Users\danii\Documents\Visual Studio 2015\Projects\TechProgLab1\TechProgLab1\bin\Debug\TechProgLab1.pdb
+C:\Users\danii\Documents\Visual Studio 2015\Projects\TechProgLab1\TechProgLab1\obj\x86\Debug\TechProgLab1.csprojResolveAssemblyReference.cache

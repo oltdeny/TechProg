@@ -1,0 +1,6 @@
+c:\users\danii\documents\visual studio 2015\Projects\TechProgLab5\TechProgLab5\bin\Debug\TechProgLab5.exe.config
+c:\users\danii\documents\visual studio 2015\Projects\TechProgLab5\TechProgLab5\obj\Debug\TechProgLab5.csprojResolveAssemblyReference.cache
+c:\users\danii\documents\visual studio 2015\Projects\TechProgLab5\TechProgLab5\bin\Debug\TechProgLab5.exe
+c:\users\danii\documents\visual studio 2015\Projects\TechProgLab5\TechProgLab5\bin\Debug\TechProgLab5.pdb
+c:\users\danii\documents\visual studio 2015\Projects\TechProgLab5\TechProgLab5\obj\Debug\TechProgLab5.exe
+c:\users\danii\documents\visual studio 2015\Projects\TechProgLab5\TechProgLab5\obj\Debug\TechProgLab5.pdb
